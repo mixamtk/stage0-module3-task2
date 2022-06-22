@@ -11,14 +11,5 @@ public class NamingConvention {
         int variableSix = 6;
         int variableSeven = 7;
         int variableEight = 8;
-                                        line.contains("variable") ||
-                                line.contains("variable_one") ||
-                                line.contains("variableTwo") ||
-                                line.contains("variable_three") ||
-                                line.contains("VARIABLE_FOUR") ||
-                                line.contains("VARIABLE_FIVE") ||
-                                line.contains("variableSix") ||
-                                line.contains("variableSeven") ||
-                                line.contains("variableEight"))
     }
 }
